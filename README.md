@@ -1,0 +1,2 @@
+# ImageResizer
+Multithreading. Image resizing
